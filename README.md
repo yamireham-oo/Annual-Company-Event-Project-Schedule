@@ -6,7 +6,7 @@ An Excel Gantt planner for a company event. Start and end dates are calculated a
 <img width="1319" height="394" alt="Screenshot 2026-11-22 104321" src="https://github.com/user-attachments/assets/d45ab808-11d4-42bf-9a21-abf69fa45036" />
 
 
-[Download the workbook](Project Schedule.xlsx)
+[Download the workbook](Project Schedual.xlsx)
 
 
 What it does
